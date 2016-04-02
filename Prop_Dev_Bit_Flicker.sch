@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.6.0">
+<eagle version="7.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="yes" active="no"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="yes" active="no"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="yes" active="no"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="yes" active="no"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="yes" active="no"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="yes" active="no"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="yes" active="no"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="yes" active="no"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="yes" active="no"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="yes" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="no" active="no"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="no" active="no"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="no" active="no"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="no" active="no"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="no" active="no"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="no" active="no"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="no" active="no"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,16 +53,16 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
@@ -4068,21 +4068,6 @@ Description: DC Power Connectors 4P JACK SKT SHIELDED SNAP AND LOCK</description
 <vertex x="-1.07" y="-0.635"/>
 </polygon>
 </package>
-<package name="WP1043">
-<pad name="ANODE" x="0" y="1.27" drill="0.9" shape="square"/>
-<pad name="CATHODE" x="0" y="-1.27" drill="0.9" shape="square"/>
-<wire x1="-1.825" y1="3.075" x2="1.825" y2="3.075" width="0.127" layer="21"/>
-<wire x1="1.825" y1="3.075" x2="1.825" y2="-3.075" width="0.127" layer="21"/>
-<wire x1="1.825" y1="-3.075" x2="-1.825" y2="-3.075" width="0.127" layer="21"/>
-<wire x1="-1.825" y1="-3.075" x2="-1.825" y2="3.075" width="0.127" layer="21"/>
-<polygon width="0.127" layer="21">
-<vertex x="-1.825" y="-2.54"/>
-<vertex x="1.825" y="-2.54"/>
-<vertex x="1.825" y="-3.075"/>
-<vertex x="-1.825" y="-3.075"/>
-</polygon>
-<text x="-1.825" y="3.81" size="0.8128" layer="25" font="vector" ratio="16">&gt;NAME</text>
-</package>
 </packages>
 <symbols>
 <symbol name="LED_SINGLE">
@@ -4150,15 +4135,6 @@ Description: DC Power Connectors 4P JACK SKT SHIELDED SNAP AND LOCK</description
 </technologies>
 </device>
 <device name="_1MM_X_0.5MM" package="LED_1MM_X_0.5MM">
-<connects>
-<connect gate="G$1" pin="ANODE" pad="ANODE"/>
-<connect gate="G$1" pin="CATHODE" pad="CATHODE"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-<device name="_WP1043" package="WP1043">
 <connects>
 <connect gate="G$1" pin="ANODE" pad="ANODE"/>
 <connect gate="G$1" pin="CATHODE" pad="CATHODE"/>
@@ -5120,113 +5096,113 @@ Description: DC Power Connectors 4P JACK SKT SHIELDED SNAP AND LOCK</description
 <library name="PP_Sensors">
 <packages>
 <package name="ESP-12E">
-<smd name="P$1" x="-7.7" y="5" dx="1" dy="2.2" layer="1" rot="R90"/>
-<smd name="P$2" x="-7.7" y="3" dx="1" dy="2.2" layer="1" rot="R90"/>
-<smd name="P$3" x="-7.7" y="1" dx="1" dy="2.2" layer="1" rot="R90"/>
-<smd name="P$4" x="-7.7" y="-1" dx="1" dy="2.2" layer="1" rot="R90"/>
-<smd name="P$5" x="-7.7" y="-3" dx="1" dy="2.2" layer="1" rot="R90"/>
-<smd name="P$6" x="-7.7" y="-5" dx="1" dy="2.2" layer="1" rot="R90"/>
-<smd name="P$7" x="-7.7" y="-7" dx="1" dy="2.2" layer="1" rot="R90"/>
-<smd name="P$8" x="-7.7" y="-9" dx="1" dy="2.2" layer="1" rot="R90"/>
-<smd name="P$10" x="-3" y="-11.75" dx="1" dy="1.5" layer="1" rot="R180"/>
-<smd name="P$11" x="-1" y="-11.75" dx="1" dy="1.5" layer="1" rot="R180"/>
-<smd name="P$12" x="1" y="-11.75" dx="1" dy="1.5" layer="1" rot="R180"/>
-<smd name="P$13" x="3" y="-11.75" dx="1" dy="1.5" layer="1" rot="R180"/>
-<smd name="P$15" x="7.7" y="-9" dx="1" dy="2.2" layer="1" rot="R270"/>
-<smd name="P$16" x="7.7" y="-7" dx="1" dy="2.2" layer="1" rot="R270"/>
-<smd name="P$17" x="7.7" y="-5" dx="1" dy="2.2" layer="1" rot="R270"/>
-<smd name="P$18" x="7.7" y="-3" dx="1" dy="2.2" layer="1" rot="R270"/>
-<smd name="P$19" x="7.7" y="-1" dx="1" dy="2.2" layer="1" rot="R270"/>
-<smd name="P$20" x="7.7" y="1" dx="1" dy="2.2" layer="1" rot="R270"/>
-<smd name="P$21" x="7.7" y="3" dx="1" dy="2.2" layer="1" rot="R270"/>
-<smd name="P$22" x="7.7" y="5" dx="1" dy="2.2" layer="1" rot="R270"/>
-<wire x1="-8" y1="12" x2="8" y2="12" width="0.127" layer="21"/>
-<wire x1="-8" y1="-12" x2="-6" y2="-12" width="0.127" layer="21"/>
-<wire x1="-4.25" y1="-12" x2="-3.75" y2="-12" width="0.127" layer="21"/>
-<wire x1="-2.25" y1="-12" x2="-1.75" y2="-12" width="0.127" layer="21"/>
-<wire x1="-0.25" y1="-12" x2="0.25" y2="-12" width="0.127" layer="21"/>
-<wire x1="1.75" y1="-12" x2="2.25" y2="-12" width="0.127" layer="21"/>
-<wire x1="3.75" y1="-12" x2="4.25" y2="-12" width="0.127" layer="21"/>
-<wire x1="6" y1="-12" x2="8" y2="-12" width="0.127" layer="21"/>
-<wire x1="-8" y1="12" x2="-8" y2="6" width="0.127" layer="21"/>
-<wire x1="-8" y1="4.25" x2="-8" y2="3.75" width="0.127" layer="21"/>
-<wire x1="-8" y1="2.25" x2="-8" y2="1.75" width="0.127" layer="21"/>
-<wire x1="-8" y1="0.25" x2="-8" y2="-0.25" width="0.127" layer="21"/>
-<wire x1="-8" y1="-1.75" x2="-8" y2="-2.25" width="0.127" layer="21"/>
-<wire x1="-8" y1="-3.75" x2="-8" y2="-4.25" width="0.127" layer="21"/>
-<wire x1="-8" y1="-5.75" x2="-8" y2="-6.25" width="0.127" layer="21"/>
-<wire x1="-8" y1="-12" x2="-8" y2="-10" width="0.127" layer="21"/>
-<wire x1="8" y1="-12" x2="8" y2="-10" width="0.127" layer="21"/>
-<wire x1="8" y1="-6.25" x2="8" y2="-5.75" width="0.127" layer="21"/>
-<wire x1="8" y1="-4.25" x2="8" y2="-3.75" width="0.127" layer="21"/>
-<wire x1="8" y1="-2.25" x2="8" y2="-1.75" width="0.127" layer="21"/>
-<wire x1="8" y1="-0.25" x2="8" y2="0.25" width="0.127" layer="21"/>
-<wire x1="8" y1="1.75" x2="8" y2="2.25" width="0.127" layer="21"/>
-<wire x1="8" y1="3.75" x2="8" y2="4.25" width="0.127" layer="21"/>
-<wire x1="8" y1="12" x2="8" y2="6" width="0.127" layer="21"/>
+<wire x1="-8" y1="13.905" x2="8" y2="13.905" width="0.127" layer="21"/>
+<wire x1="-8" y1="-10.095" x2="-6" y2="-10.095" width="0.127" layer="21"/>
+<wire x1="-4.25" y1="-10.095" x2="-3.75" y2="-10.095" width="0.127" layer="21"/>
+<wire x1="-2.25" y1="-10.095" x2="-1.75" y2="-10.095" width="0.127" layer="21"/>
+<wire x1="-0.25" y1="-10.095" x2="0.25" y2="-10.095" width="0.127" layer="21"/>
+<wire x1="1.75" y1="-10.095" x2="2.25" y2="-10.095" width="0.127" layer="21"/>
+<wire x1="3.75" y1="-10.095" x2="4.25" y2="-10.095" width="0.127" layer="21"/>
+<wire x1="6" y1="-10.095" x2="8" y2="-10.095" width="0.127" layer="21"/>
+<wire x1="-8" y1="13.905" x2="-8" y2="7.905" width="0.127" layer="21"/>
+<wire x1="-8" y1="6.155" x2="-8" y2="5.655" width="0.127" layer="21"/>
+<wire x1="-8" y1="4.155" x2="-8" y2="3.655" width="0.127" layer="21"/>
+<wire x1="-8" y1="2.155" x2="-8" y2="1.655" width="0.127" layer="21"/>
+<wire x1="-8" y1="0.155" x2="-8" y2="-0.345" width="0.127" layer="21"/>
+<wire x1="-8" y1="-1.845" x2="-8" y2="-2.345" width="0.127" layer="21"/>
+<wire x1="-8" y1="-3.845" x2="-8" y2="-4.345" width="0.127" layer="21"/>
+<wire x1="-8" y1="-10.095" x2="-8" y2="-8.095" width="0.127" layer="21"/>
+<wire x1="8" y1="-10.095" x2="8" y2="-8.095" width="0.127" layer="21"/>
+<wire x1="8" y1="-4.345" x2="8" y2="-3.845" width="0.127" layer="21"/>
+<wire x1="8" y1="-2.345" x2="8" y2="-1.845" width="0.127" layer="21"/>
+<wire x1="8" y1="-0.345" x2="8" y2="0.155" width="0.127" layer="21"/>
+<wire x1="8" y1="1.655" x2="8" y2="2.155" width="0.127" layer="21"/>
+<wire x1="8" y1="3.655" x2="8" y2="4.155" width="0.127" layer="21"/>
+<wire x1="8" y1="5.655" x2="8" y2="6.155" width="0.127" layer="21"/>
+<wire x1="8" y1="13.905" x2="8" y2="7.905" width="0.127" layer="21"/>
+<wire x1="8" y1="-6.345" x2="8" y2="-5.845" width="0.127" layer="21"/>
+<wire x1="-8" y1="-6.345" x2="-8" y2="-5.845" width="0.127" layer="21"/>
+<smd name="P$1" x="-7.7" y="6.905" dx="1" dy="2.2" layer="1" rot="R90"/>
+<smd name="P$2" x="-7.7" y="4.905" dx="1" dy="2.2" layer="1" rot="R90"/>
+<smd name="P$3" x="-7.7" y="2.905" dx="1" dy="2.2" layer="1" rot="R90"/>
+<smd name="P$4" x="-7.7" y="0.905" dx="1" dy="2.2" layer="1" rot="R90"/>
+<smd name="P$5" x="-7.7" y="-1.095" dx="1" dy="2.2" layer="1" rot="R90"/>
+<smd name="P$6" x="-7.7" y="-3.095" dx="1" dy="2.2" layer="1" rot="R90"/>
+<smd name="P$7" x="-7.7" y="-5.095" dx="1" dy="2.2" layer="1" rot="R90"/>
+<smd name="P$8" x="-7.7" y="-7.095" dx="1" dy="2.2" layer="1" rot="R90"/>
+<smd name="P$9" x="-5" y="-9.845" dx="1" dy="1.5" layer="1" rot="R180"/>
+<smd name="P$10" x="-3" y="-9.845" dx="1" dy="1.5" layer="1" rot="R180"/>
+<smd name="P$11" x="-1" y="-9.845" dx="1" dy="1.5" layer="1" rot="R180"/>
+<smd name="P$12" x="1" y="-9.845" dx="1" dy="1.5" layer="1" rot="R180"/>
+<smd name="P$13" x="3" y="-9.845" dx="1" dy="1.5" layer="1" rot="R180"/>
+<smd name="P$14" x="5" y="-9.845" dx="1" dy="1.5" layer="1" rot="R180"/>
+<smd name="P$15" x="7.7" y="-7.095" dx="1" dy="2.2" layer="1" rot="R270"/>
+<smd name="P$16" x="7.7" y="-5.095" dx="1" dy="2.2" layer="1" rot="R270"/>
+<smd name="P$17" x="7.7" y="-3.095" dx="1" dy="2.2" layer="1" rot="R270"/>
+<smd name="P$18" x="7.7" y="-1.095" dx="1" dy="2.2" layer="1" rot="R270"/>
+<smd name="P$19" x="7.7" y="0.905" dx="1" dy="2.2" layer="1" rot="R270"/>
+<smd name="P$20" x="7.7" y="2.905" dx="1" dy="2.2" layer="1" rot="R270"/>
+<smd name="P$21" x="7.7" y="4.905" dx="1" dy="2.2" layer="1" rot="R270"/>
+<smd name="P$22" x="7.7" y="6.905" dx="1" dy="2.2" layer="1" rot="R270"/>
+<text x="-8" y="14.405" size="0.8128" layer="25" font="vector" ratio="16">&gt;NAME</text>
 <polygon width="0.127" layer="39">
-<vertex x="-8" y="12"/>
-<vertex x="8" y="12"/>
-<vertex x="8" y="6.115"/>
-<vertex x="-8" y="6.115"/>
+<vertex x="-8" y="13.905"/>
+<vertex x="8" y="13.905"/>
+<vertex x="8" y="8.02"/>
+<vertex x="-8" y="8.02"/>
 </polygon>
 <polygon width="0.127" layer="40">
-<vertex x="-8" y="12"/>
-<vertex x="8" y="12"/>
-<vertex x="8" y="6.115"/>
-<vertex x="-8" y="6.115"/>
+<vertex x="-8" y="13.905"/>
+<vertex x="8" y="13.905"/>
+<vertex x="8" y="8.02"/>
+<vertex x="-8" y="8.02"/>
 </polygon>
-<text x="-8" y="12.5" size="0.8128" layer="25" font="vector" ratio="16">&gt;NAME</text>
-<wire x1="8" y1="-8.25" x2="8" y2="-7.75" width="0.127" layer="21"/>
-<wire x1="-8" y1="-8.25" x2="-8" y2="-7.75" width="0.127" layer="21"/>
-<smd name="P$9" x="-5" y="-11.75" dx="1" dy="1.5" layer="1" rot="R180"/>
-<smd name="P$14" x="5" y="-11.75" dx="1" dy="1.5" layer="1" rot="R180"/>
 </package>
 </packages>
 <symbols>
 <symbol name="ESP-12E">
-<pin name="RESET" x="-2.54" y="-2.54" visible="off" length="short"/>
-<pin name="ADC" x="-2.54" y="-5.08" visible="off" length="short"/>
-<pin name="CH_PD" x="-2.54" y="-7.62" visible="off" length="short"/>
-<pin name="GPIO16" x="-2.54" y="-10.16" visible="off" length="short"/>
-<pin name="GPIO14" x="-2.54" y="-12.7" visible="off" length="short"/>
-<pin name="GPIO12" x="-2.54" y="-15.24" visible="off" length="short"/>
-<pin name="GPIO13" x="-2.54" y="-17.78" visible="off" length="short"/>
-<pin name="VCC" x="-2.54" y="-20.32" visible="off" length="short"/>
-<pin name="GND" x="17.78" y="-20.32" visible="off" length="short" rot="R180"/>
-<pin name="GPIO15" x="17.78" y="-17.78" visible="off" length="short" rot="R180"/>
-<pin name="GPIO2" x="17.78" y="-15.24" visible="off" length="short" rot="R180"/>
-<pin name="GPIO0" x="17.78" y="-12.7" visible="off" length="short" rot="R180"/>
-<pin name="GPIO5" x="17.78" y="-10.16" visible="off" length="short" rot="R180"/>
-<pin name="RXD" x="17.78" y="-5.08" visible="off" length="short" rot="R180"/>
-<pin name="GPIO4" x="17.78" y="-7.62" visible="off" length="short" rot="R180"/>
-<pin name="TXD" x="17.78" y="-2.54" visible="off" length="short" rot="R180"/>
-<wire x1="0" y1="-1.27" x2="0" y2="-21.59" width="0.1524" layer="94"/>
-<wire x1="0" y1="-21.59" x2="15.24" y2="-21.59" width="0.1524" layer="94"/>
-<wire x1="15.24" y1="-21.59" x2="15.24" y2="-1.27" width="0.1524" layer="94"/>
-<wire x1="15.24" y1="-1.27" x2="0" y2="-1.27" width="0.1524" layer="94"/>
-<text x="0" y="2.54" size="1.016" layer="95" font="vector" align="top-left">&gt;NAME</text>
-<text x="0" y="0" size="1.016" layer="95" font="vector">&gt;VALUE</text>
-<text x="1.27" y="-5.08" size="1.016" layer="97" font="vector" align="center-left">ADC</text>
-<text x="1.27" y="-7.62" size="1.016" layer="97" font="vector" align="center-left">CH_PD</text>
-<text x="13.97" y="-20.32" size="1.016" layer="97" font="vector" rot="R180" align="center-left">GND</text>
-<text x="13.97" y="-12.7" size="1.016" layer="97" font="vector" rot="R180" align="center-left">GPIO0</text>
-<text x="13.97" y="-15.24" size="1.016" layer="97" font="vector" rot="R180" align="center-left">GPIO2</text>
-<text x="13.97" y="-7.62" size="1.016" layer="97" font="vector" rot="R180" align="center-left">GPIO4</text>
-<text x="13.97" y="-10.16" size="1.016" layer="97" font="vector" rot="R180" align="center-left">GPIO5</text>
-<text x="1.27" y="-15.24" size="1.016" layer="97" font="vector" align="center-left">GPIO12</text>
-<text x="1.27" y="-17.78" size="1.016" layer="97" font="vector" align="center-left">GPIO13</text>
-<text x="1.27" y="-12.7" size="1.016" layer="97" font="vector" align="center-left">GPIO14</text>
-<text x="13.97" y="-17.78" size="1.016" layer="97" font="vector" rot="R180" align="center-left">GPIO15</text>
-<text x="1.27" y="-10.16" size="1.016" layer="97" font="vector" align="center-left">GPIO16</text>
-<text x="1.27" y="-2.54" size="1.016" layer="97" font="vector" align="center-left">RESET</text>
-<text x="13.97" y="-5.08" size="1.016" layer="97" font="vector" rot="R180" align="center-left">RXD</text>
-<text x="13.97" y="-2.54" size="1.016" layer="97" font="vector" rot="R180" align="center-left">TXD</text>
-<text x="1.27" y="-20.32" size="1.016" layer="97" font="vector" align="center-left">VCC</text>
+<wire x1="0" y1="1.27" x2="0" y2="-19.05" width="0.1524" layer="94"/>
+<wire x1="0" y1="-19.05" x2="15.24" y2="-19.05" width="0.1524" layer="94"/>
+<wire x1="15.24" y1="-19.05" x2="15.24" y2="1.27" width="0.1524" layer="94"/>
+<wire x1="15.24" y1="1.27" x2="0" y2="1.27" width="0.1524" layer="94"/>
+<pin name="ADC" x="-2.54" y="-2.54" visible="off" length="short"/>
+<pin name="CH_PD" x="-2.54" y="-5.08" visible="off" length="short"/>
+<pin name="GND" x="17.78" y="-17.78" visible="off" length="short" rot="R180"/>
+<pin name="GPIO0" x="17.78" y="-10.16" visible="off" length="short" rot="R180"/>
+<pin name="GPIO2" x="17.78" y="-12.7" visible="off" length="short" rot="R180"/>
+<pin name="GPIO4" x="17.78" y="-5.08" visible="off" length="short" rot="R180"/>
+<pin name="GPIO5" x="17.78" y="-7.62" visible="off" length="short" rot="R180"/>
+<pin name="GPIO12" x="-2.54" y="-12.7" visible="off" length="short"/>
+<pin name="GPIO13" x="-2.54" y="-15.24" visible="off" length="short"/>
+<pin name="GPIO14" x="-2.54" y="-10.16" visible="off" length="short"/>
+<pin name="GPIO15" x="17.78" y="-15.24" visible="off" length="short" rot="R180"/>
+<pin name="GPIO16" x="-2.54" y="-7.62" visible="off" length="short"/>
+<pin name="RESET" x="-2.54" y="0" visible="off" length="short"/>
+<pin name="RXD" x="17.78" y="-2.54" visible="off" length="short" rot="R180"/>
+<pin name="TXD" x="17.78" y="0" visible="off" length="short" rot="R180"/>
+<pin name="VCC" x="-2.54" y="-17.78" visible="off" length="short"/>
+<text x="0" y="5.08" size="1.016" layer="95" font="vector" align="top-left">&gt;NAME</text>
+<text x="0" y="2.54" size="1.016" layer="95" font="vector">&gt;VALUE</text>
+<text x="1.27" y="-2.54" size="1.016" layer="97" font="vector" align="center-left">ADC</text>
+<text x="1.27" y="-5.08" size="1.016" layer="97" font="vector" align="center-left">CH_PD</text>
+<text x="13.97" y="-17.78" size="1.016" layer="97" font="vector" rot="R180" align="center-left">GND</text>
+<text x="13.97" y="-10.16" size="1.016" layer="97" font="vector" rot="R180" align="center-left">GPIO0</text>
+<text x="13.97" y="-12.7" size="1.016" layer="97" font="vector" rot="R180" align="center-left">GPIO2</text>
+<text x="13.97" y="-5.08" size="1.016" layer="97" font="vector" rot="R180" align="center-left">GPIO4</text>
+<text x="13.97" y="-7.62" size="1.016" layer="97" font="vector" rot="R180" align="center-left">GPIO5</text>
+<text x="1.27" y="-12.7" size="1.016" layer="97" font="vector" align="center-left">GPIO12</text>
+<text x="1.27" y="-15.24" size="1.016" layer="97" font="vector" align="center-left">GPIO13</text>
+<text x="1.27" y="-10.16" size="1.016" layer="97" font="vector" align="center-left">GPIO14</text>
+<text x="13.97" y="-15.24" size="1.016" layer="97" font="vector" rot="R180" align="center-left">GPIO15</text>
+<text x="1.27" y="-7.62" size="1.016" layer="97" font="vector" align="center-left">GPIO16</text>
+<text x="1.27" y="0" size="1.016" layer="97" font="vector" align="center-left">RESET</text>
+<text x="13.97" y="-2.54" size="1.016" layer="97" font="vector" rot="R180" align="center-left">RXD</text>
+<text x="13.97" y="0" size="1.016" layer="97" font="vector" rot="R180" align="center-left">TXD</text>
+<text x="1.27" y="-17.78" size="1.016" layer="97" font="vector" align="center-left">VCC</text>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="ESP-12E" prefix="U" uservalue="yes">
+<deviceset name="ESP-12E" prefix="WIFI" uservalue="yes">
 <gates>
 <gate name="G$1" symbol="ESP-12E" x="0" y="0"/>
 </gates>
@@ -5333,11 +5309,10 @@ Description: DC Power Connectors 4P JACK SKT SHIELDED SNAP AND LOCK</description
 <part name="U8" library="PP_Sensors" deviceset="ESP-12E" device="" value="ESP-12E"/>
 <part name="C20" library="MF_Passives" deviceset="CAPACITOR_NP" device="_1206" value="10uF"/>
 <part name="C21" library="PP_Passives" deviceset="CAPACITOR_NON_POLAR" device="_0603" value=".1uF"/>
-<part name="R19" library="PP_Passives" deviceset="RESISTOR" device="_0603" value="10K"/>
 <part name="R20" library="PP_Passives" deviceset="RESISTOR" device="_0603" value="10K"/>
 <part name="R21" library="PP_Passives" deviceset="RESISTOR" device="_0603" value="10K"/>
 <part name="R22" library="PP_Passives" deviceset="RESISTOR" device="_0603" value="10K"/>
-<part name="PWR1" library="PP_LED" deviceset="LED_SINGLE" device="_0805" value="598-8020-107F "/>
+<part name="WIFI" library="PP_LED" deviceset="LED_SINGLE" device="_0805" value="598-8020-107F "/>
 <part name="R23" library="PP_Passives" deviceset="RESISTOR" device="_0603" value="1K"/>
 </parts>
 <sheets>
@@ -5432,17 +5407,16 @@ Description: DC Power Connectors 4P JACK SKT SHIELDED SNAP AND LOCK</description
 <instance part="L2" gate="G$1" x="-375.92" y="236.22"/>
 <instance part="C18" gate="G$1" x="-345.44" y="231.14"/>
 <instance part="C19" gate="G$1" x="-335.28" y="231.14"/>
-<instance part="U8" gate="G$1" x="-99.06" y="337.82"/>
+<instance part="U8" gate="G$1" x="-99.06" y="335.28"/>
 <instance part="C20" gate="G$1" x="-96.52" y="304.8" smashed="yes">
 <attribute name="NAME" x="-93.98" y="307.34" size="0.8128" layer="95" font="vector"/>
 <attribute name="VALUE" x="-93.98" y="302.26" size="0.8128" layer="96" font="vector" align="top-left"/>
 </instance>
 <instance part="C21" gate="G$1" x="-86.36" y="304.8"/>
-<instance part="R19" gate="G$1" x="-58.42" y="342.9" rot="R270"/>
 <instance part="R20" gate="G$1" x="-121.92" y="342.9" rot="R270"/>
 <instance part="R21" gate="G$1" x="-58.42" y="307.34" rot="R270"/>
 <instance part="R22" gate="G$1" x="-114.3" y="342.9" rot="R270"/>
-<instance part="PWR1" gate="G$1" x="-66.04" y="330.2" rot="R270"/>
+<instance part="WIFI" gate="G$1" x="-66.04" y="330.2" rot="R270"/>
 <instance part="R23" gate="G$1" x="-66.04" y="342.9" rot="R270"/>
 </instances>
 <busses>
@@ -5991,11 +5965,7 @@ Description: DC Power Connectors 4P JACK SKT SHIELDED SNAP AND LOCK</description
 <junction x="-96.52" y="312.42"/>
 <wire x1="-109.22" y1="312.42" x2="-132.08" y2="312.42" width="0.1524" layer="91"/>
 <wire x1="-132.08" y1="312.42" x2="-132.08" y2="350.52" width="0.1524" layer="91"/>
-<pinref part="R19" gate="G$1" pin="1"/>
-<wire x1="-58.42" y1="347.98" x2="-58.42" y2="350.52" width="0.1524" layer="91"/>
 <pinref part="R20" gate="G$1" pin="1"/>
-<wire x1="-58.42" y1="350.52" x2="-66.04" y2="350.52" width="0.1524" layer="91"/>
-<wire x1="-66.04" y1="350.52" x2="-114.3" y2="350.52" width="0.1524" layer="91"/>
 <wire x1="-114.3" y1="350.52" x2="-121.92" y2="350.52" width="0.1524" layer="91"/>
 <wire x1="-121.92" y1="350.52" x2="-121.92" y2="347.98" width="0.1524" layer="91"/>
 <pinref part="R22" gate="G$1" pin="1"/>
@@ -6003,10 +5973,7 @@ Description: DC Power Connectors 4P JACK SKT SHIELDED SNAP AND LOCK</description
 <wire x1="-132.08" y1="350.52" x2="-121.92" y2="350.52" width="0.1524" layer="91"/>
 <label x="-132.08" y="350.52" size="1.016" layer="95" font="vector"/>
 <junction x="-121.92" y="350.52"/>
-<junction x="-114.3" y="350.52"/>
-<pinref part="R23" gate="G$1" pin="1"/>
-<wire x1="-66.04" y1="347.98" x2="-66.04" y2="350.52" width="0.1524" layer="91"/>
-<junction x="-66.04" y="350.52"/>
+<junction x="-109.22" y="312.42"/>
 </segment>
 </net>
 <net name="SD_SCLK" class="0">
@@ -6651,24 +6618,6 @@ Description: DC Power Connectors 4P JACK SKT SHIELDED SNAP AND LOCK</description
 <label x="-78.74" y="332.74" size="1.016" layer="95" font="vector"/>
 </segment>
 </net>
-<net name="N$9" class="0">
-<segment>
-<pinref part="U8" gate="G$1" pin="GPIO0"/>
-<label x="-78.74" y="325.12" size="1.016" layer="95" font="vector"/>
-<pinref part="PWR1" gate="G$1" pin="CATHODE"/>
-<wire x1="-81.28" y1="325.12" x2="-66.04" y2="325.12" width="0.1524" layer="91"/>
-<wire x1="-66.04" y1="325.12" x2="-66.04" y2="327.66" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="GPIO2" class="0">
-<segment>
-<pinref part="U8" gate="G$1" pin="GPIO2"/>
-<label x="-78.74" y="322.58" size="1.016" layer="95" font="vector"/>
-<pinref part="R19" gate="G$1" pin="2"/>
-<wire x1="-81.28" y1="322.58" x2="-58.42" y2="322.58" width="0.1524" layer="91"/>
-<wire x1="-58.42" y1="322.58" x2="-58.42" y2="337.82" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="GPIO15" class="0">
 <segment>
 <pinref part="U8" gate="G$1" pin="GPIO15"/>
@@ -6694,13 +6643,6 @@ Description: DC Power Connectors 4P JACK SKT SHIELDED SNAP AND LOCK</description
 <label x="-109.22" y="335.28" size="1.016" layer="95" font="vector"/>
 <pinref part="R22" gate="G$1" pin="2"/>
 <wire x1="-114.3" y1="335.28" x2="-114.3" y2="337.82" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$4" class="0">
-<segment>
-<pinref part="PWR1" gate="G$1" pin="ANODE"/>
-<pinref part="R23" gate="G$1" pin="2"/>
-<wire x1="-66.04" y1="332.74" x2="-66.04" y2="337.82" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
