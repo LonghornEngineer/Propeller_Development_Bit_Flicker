@@ -18035,13 +18035,13 @@ Description: DC Power Connectors 4P JACK SKT SHIELDED SNAP AND LOCK</description
 <packages>
 <package name="ESP-12E">
 <wire x1="-8" y1="13.905" x2="8" y2="13.905" width="0.127" layer="21"/>
-<wire x1="-8" y1="-10.095" x2="-6" y2="-10.095" width="0.127" layer="21"/>
-<wire x1="-4.25" y1="-10.095" x2="-3.75" y2="-10.095" width="0.127" layer="21"/>
-<wire x1="-2.25" y1="-10.095" x2="-1.75" y2="-10.095" width="0.127" layer="21"/>
-<wire x1="-0.25" y1="-10.095" x2="0.25" y2="-10.095" width="0.127" layer="21"/>
-<wire x1="1.75" y1="-10.095" x2="2.25" y2="-10.095" width="0.127" layer="21"/>
-<wire x1="3.75" y1="-10.095" x2="4.25" y2="-10.095" width="0.127" layer="21"/>
-<wire x1="6" y1="-10.095" x2="8" y2="-10.095" width="0.127" layer="21"/>
+<wire x1="-8" y1="-9.595" x2="-6" y2="-9.595" width="0.127" layer="21"/>
+<wire x1="-4.25" y1="-9.595" x2="-3.75" y2="-9.595" width="0.127" layer="21"/>
+<wire x1="-2.25" y1="-9.595" x2="-1.75" y2="-9.595" width="0.127" layer="21"/>
+<wire x1="-0.25" y1="-9.595" x2="0.25" y2="-9.595" width="0.127" layer="21"/>
+<wire x1="1.75" y1="-9.595" x2="2.25" y2="-9.595" width="0.127" layer="21"/>
+<wire x1="3.75" y1="-9.595" x2="4.25" y2="-9.595" width="0.127" layer="21"/>
+<wire x1="6" y1="-9.595" x2="8" y2="-9.595" width="0.127" layer="21"/>
 <wire x1="-8" y1="13.905" x2="-8" y2="7.905" width="0.127" layer="21"/>
 <wire x1="-8" y1="6.155" x2="-8" y2="5.655" width="0.127" layer="21"/>
 <wire x1="-8" y1="4.155" x2="-8" y2="3.655" width="0.127" layer="21"/>
@@ -18049,8 +18049,8 @@ Description: DC Power Connectors 4P JACK SKT SHIELDED SNAP AND LOCK</description
 <wire x1="-8" y1="0.155" x2="-8" y2="-0.345" width="0.127" layer="21"/>
 <wire x1="-8" y1="-1.845" x2="-8" y2="-2.345" width="0.127" layer="21"/>
 <wire x1="-8" y1="-3.845" x2="-8" y2="-4.345" width="0.127" layer="21"/>
-<wire x1="-8" y1="-10.095" x2="-8" y2="-8.095" width="0.127" layer="21"/>
-<wire x1="8" y1="-10.095" x2="8" y2="-8.095" width="0.127" layer="21"/>
+<wire x1="-8" y1="-9.595" x2="-8" y2="-8.095" width="0.127" layer="21"/>
+<wire x1="8" y1="-9.595" x2="8" y2="-8.095" width="0.127" layer="21"/>
 <wire x1="8" y1="-4.345" x2="8" y2="-3.845" width="0.127" layer="21"/>
 <wire x1="8" y1="-2.345" x2="8" y2="-1.845" width="0.127" layer="21"/>
 <wire x1="8" y1="-0.345" x2="8" y2="0.155" width="0.127" layer="21"/>
@@ -18068,12 +18068,12 @@ Description: DC Power Connectors 4P JACK SKT SHIELDED SNAP AND LOCK</description
 <smd name="P$6" x="-7.7" y="-3.095" dx="1" dy="2.2" layer="1" rot="R90"/>
 <smd name="P$7" x="-7.7" y="-5.095" dx="1" dy="2.2" layer="1" rot="R90"/>
 <smd name="P$8" x="-7.7" y="-7.095" dx="1" dy="2.2" layer="1" rot="R90"/>
-<smd name="P$9" x="-5" y="-9.845" dx="1" dy="1.5" layer="1" rot="R180"/>
-<smd name="P$10" x="-3" y="-9.845" dx="1" dy="1.5" layer="1" rot="R180"/>
-<smd name="P$11" x="-1" y="-9.845" dx="1" dy="1.5" layer="1" rot="R180"/>
-<smd name="P$12" x="1" y="-9.845" dx="1" dy="1.5" layer="1" rot="R180"/>
-<smd name="P$13" x="3" y="-9.845" dx="1" dy="1.5" layer="1" rot="R180"/>
-<smd name="P$14" x="5" y="-9.845" dx="1" dy="1.5" layer="1" rot="R180"/>
+<smd name="P$9" x="-5" y="-9.345" dx="1" dy="2.5" layer="1" rot="R180"/>
+<smd name="P$10" x="-3" y="-9.345" dx="1" dy="2.5" layer="1" rot="R180"/>
+<smd name="P$11" x="-1" y="-9.345" dx="1" dy="2.5" layer="1" rot="R180"/>
+<smd name="P$12" x="1" y="-9.345" dx="1" dy="2.5" layer="1" rot="R180"/>
+<smd name="P$13" x="3" y="-9.345" dx="1" dy="2.5" layer="1" rot="R180"/>
+<smd name="P$14" x="5" y="-9.345" dx="1" dy="2.5" layer="1" rot="R180"/>
 <smd name="P$15" x="7.7" y="-7.095" dx="1" dy="2.2" layer="1" rot="R270"/>
 <smd name="P$16" x="7.7" y="-5.095" dx="1" dy="2.2" layer="1" rot="R270"/>
 <smd name="P$17" x="7.7" y="-3.095" dx="1" dy="2.2" layer="1" rot="R270"/>
