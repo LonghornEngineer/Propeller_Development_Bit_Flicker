@@ -4983,7 +4983,7 @@ This DRC check is for 4-Layer Standard Capability boards to be manufactured thro
 <element name="U3" library="PP_PowerIC" package="TPS211X_SON-8" value="TPS2113ADRBR" x="16.256" y="17.272" smashed="yes">
 <attribute name="NAME" x="14.631" y="19.872" size="0.8128" layer="21" font="vector"/>
 </element>
-<element name="U1" library="PP_DigitalIC" package="P8X32A_QFN-44" value="P8X32A-Q44" x="28.702" y="12.192" smashed="yes" rot="R90">
+<element name="U1" library="PP_DigitalIC" package="P8X32A_QFN-44" value="P8X32A-M44" x="28.702" y="12.192" smashed="yes" rot="R90">
 <attribute name="NAME" x="23.552" y="5.908" size="0.8128" layer="25" font="vector"/>
 </element>
 <element name="J2" library="PP_Connectors" package="2.54MM_01X04_PIN_HEADER" value="" x="58.166" y="1.016" smashed="yes">
