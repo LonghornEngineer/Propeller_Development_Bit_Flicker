@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="no" active="no"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="no" active="no"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="no" active="no"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="no" active="no"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="no" active="no"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="no" active="no"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="no" active="no"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="1" name="Top" color="13" fill="1" visible="yes" active="no"/>
+<layer number="2" name="Route2" color="12" fill="0" visible="yes" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="yes" active="no"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="yes" active="no"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="yes" active="no"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="yes" active="no"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="yes" active="no"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="yes" active="no"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="yes" active="no"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="yes" active="no"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="yes" active="no"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="yes" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
+<layer number="15" name="Route15" color="9" fill="0" visible="yes" active="no"/>
+<layer number="16" name="Bottom" color="14" fill="1" visible="yes" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,16 +53,16 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
@@ -15802,6 +15802,140 @@
 <smd name="2" x="0.2375" y="0" dx="0.25" dy="0.275" layer="1"/>
 <text x="-1.27" y="0.6985" size="0.8128" layer="25" font="vector" ratio="16">&gt;NAME</text>
 </package>
+<package name="12.5MM_CAP_PTH">
+<pad name="POS" x="0" y="2.5" drill="0.7" diameter="1.6764" shape="long"/>
+<pad name="NEG" x="0" y="-2.5" drill="0.7" diameter="1.6764" shape="long"/>
+<circle x="0" y="0" radius="6.5" width="0.127" layer="21"/>
+<wire x1="0" y1="6" x2="0" y2="4" width="0.127" layer="21"/>
+<wire x1="-1" y1="5" x2="1" y2="5" width="0.127" layer="21"/>
+<text x="-6.43" y="6" size="0.8128" layer="25" font="vector" ratio="16">&gt;NAME</text>
+</package>
+<package name="1206_POLARIZED">
+<wire x1="-1" y1="-1.2" x2="-2.5" y2="-1.2" width="0.2032" layer="21"/>
+<wire x1="-2.5" y1="-1.2" x2="-2.5" y2="1.2" width="0.2032" layer="21"/>
+<wire x1="-2.5" y1="1.2" x2="-1" y2="1.2" width="0.2032" layer="21"/>
+<wire x1="1" y1="-1.2" x2="2.1" y2="-1.2" width="0.2032" layer="21"/>
+<wire x1="2.1" y1="-1.2" x2="2.5" y2="-0.8" width="0.2032" layer="21"/>
+<wire x1="2.5" y1="-0.8" x2="2.5" y2="0.8" width="0.2032" layer="21"/>
+<wire x1="2.5" y1="0.8" x2="2.1" y2="1.2" width="0.2032" layer="21"/>
+<wire x1="2.1" y1="1.2" x2="1" y2="1.2" width="0.2032" layer="21"/>
+<wire x1="0.381" y1="1.016" x2="0.381" y2="-1.016" width="0.127" layer="21"/>
+<smd name="-" x="-1.4" y="0" dx="1.6" dy="1.4" layer="1" rot="R90"/>
+<smd name="+" x="1.4" y="0" dx="1.6" dy="1.4" layer="1" rot="R90"/>
+<text x="-2.54" y="1.381" size="0.8128" layer="25" font="vector" ratio="16">&gt;NAME</text>
+</package>
+<package name="6.3MM_CAP_SMD">
+<smd name="NEG" x="0" y="-2.6" dx="0.8" dy="3" layer="1" rot="R180"/>
+<smd name="POS" x="0" y="2.6" dx="0.8" dy="3" layer="1" rot="R180"/>
+<wire x1="-3.3" y1="-3.3" x2="-3.3" y2="2.451471875" width="0.127" layer="21"/>
+<wire x1="-3.3" y1="2.451471875" x2="-2.451471875" y2="3.3" width="0.127" layer="21"/>
+<wire x1="-2.451471875" y1="3.3" x2="-0.7" y2="3.3" width="0.127" layer="21"/>
+<wire x1="3.3" y1="-3.3" x2="3.3" y2="2.451471875" width="0.127" layer="21"/>
+<wire x1="3.3" y1="2.451471875" x2="2.451471875" y2="3.3" width="0.127" layer="21"/>
+<wire x1="2.451471875" y1="3.3" x2="0.7" y2="3.3" width="0.127" layer="21"/>
+<wire x1="-3.3" y1="-3.3" x2="-0.7" y2="-3.3" width="0.127" layer="21"/>
+<wire x1="3.3" y1="-3.3" x2="0.7" y2="-3.3" width="0.127" layer="21"/>
+<text x="-3.3" y="4.385" size="0.8128" layer="25" font="vector" ratio="16">&gt;NAME</text>
+<text x="1.905" y="2.54" size="1.27" layer="21" font="vector" align="center">+</text>
+</package>
+<package name="8MM_CAP_SMD">
+<smd name="POS" x="0" y="4.05" dx="1.1" dy="5" layer="1"/>
+<smd name="NEG" x="0" y="-4.05" dx="1.1" dy="5" layer="1"/>
+<wire x1="4.25" y1="-4.25" x2="4.25" y2="3.54289375" width="0.127" layer="21"/>
+<wire x1="4.25" y1="3.54289375" x2="3.54289375" y2="4.25" width="0.127" layer="21"/>
+<wire x1="3.54289375" y1="4.25" x2="1" y2="4.25" width="0.127" layer="21"/>
+<wire x1="4.25" y1="-4.25" x2="1" y2="-4.25" width="0.127" layer="21"/>
+<wire x1="-4.25" y1="-4.25" x2="-4.25" y2="3.54289375" width="0.127" layer="21"/>
+<wire x1="-4.25" y1="3.54289375" x2="-3.54289375" y2="4.25" width="0.127" layer="21"/>
+<wire x1="-3.54289375" y1="4.25" x2="-1" y2="4.25" width="0.127" layer="21"/>
+<wire x1="-4.25" y1="-4.25" x2="-1" y2="-4.25" width="0.127" layer="21"/>
+<text x="-4.25" y="5.08" size="0.8128" layer="21" font="vector" ratio="16">&gt;NAME</text>
+<text x="2.54" y="3.175" size="1.27" layer="21" font="vector" align="center">+</text>
+</package>
+<package name="EEH-ZA1V271P">
+<smd name="N" x="0" y="-5.5" dx="1.1" dy="5" layer="1" rot="R180"/>
+<smd name="P" x="0" y="5.5" dx="1.1" dy="5" layer="1" rot="R180"/>
+<wire x1="-5.15" y1="-5.15" x2="-1.27" y2="-5.15" width="0.127" layer="21"/>
+<wire x1="1.27" y1="-5.15" x2="5.15" y2="-5.15" width="0.127" layer="21"/>
+<wire x1="5.15" y1="-5.15" x2="5.15" y2="2.575" width="0.127" layer="21"/>
+<wire x1="5.15" y1="2.575" x2="2.575" y2="5.15" width="0.127" layer="21"/>
+<wire x1="2.575" y1="5.15" x2="1.27" y2="5.15" width="0.127" layer="21"/>
+<wire x1="-1.27" y1="5.15" x2="-2.575" y2="5.15" width="0.127" layer="21"/>
+<wire x1="-2.575" y1="5.15" x2="-5.15" y2="2.575" width="0.127" layer="21"/>
+<wire x1="-5.15" y1="2.575" x2="-5.15" y2="-5.15" width="0.127" layer="21"/>
+<text x="-5.08" y="6.35" size="0.8128" layer="21" font="vector" ratio="16">&gt;NAME</text>
+<text x="2.54" y="3.81" size="1.778" layer="21" font="vector" align="center">+</text>
+</package>
+<package name="5MM_CAP_SMD">
+<smd name="P" x="0" y="2.25" dx="0.65" dy="3" layer="1"/>
+<smd name="N" x="0" y="-2.25" dx="0.65" dy="3" layer="1"/>
+<wire x1="2.65" y1="-2.65" x2="2.65" y2="1.713084375" width="0.127" layer="21"/>
+<wire x1="2.65" y1="1.713084375" x2="1.713084375" y2="2.65" width="0.127" layer="21"/>
+<wire x1="1.713084375" y1="2.65" x2="0.6625" y2="2.65" width="0.127" layer="21"/>
+<wire x1="-0.6625" y1="2.65" x2="-1.713084375" y2="2.65" width="0.127" layer="21"/>
+<wire x1="-1.713084375" y1="2.65" x2="-2.65" y2="1.713084375" width="0.127" layer="21"/>
+<wire x1="-2.65" y1="1.713084375" x2="-2.65" y2="-2.65" width="0.127" layer="21"/>
+<wire x1="-2.65" y1="-2.65" x2="-0.6625" y2="-2.65" width="0.127" layer="21"/>
+<wire x1="0.6625" y1="-2.65" x2="2.65" y2="-2.65" width="0.127" layer="21"/>
+<text x="-2.65" y="4.5825" size="0.8128" layer="25" font="vector" ratio="16">&gt;NAME</text>
+<text x="1.27" y="1.905" size="1.27" layer="21" font="vector" align="center">+</text>
+</package>
+<package name="2917">
+<smd name="P$1" x="-2.7" y="0" dx="3.75" dy="2.55" layer="1" rot="R90"/>
+<smd name="P$2" x="2.7" y="0" dx="3.75" dy="2.55" layer="1" rot="R90"/>
+<wire x1="-4.5" y1="2.5" x2="-1" y2="2.5" width="0.127" layer="21"/>
+<wire x1="-1" y1="2.5" x2="4.5" y2="2.5" width="0.127" layer="21"/>
+<wire x1="4.5" y1="2.5" x2="4.5" y2="-2.5" width="0.127" layer="21"/>
+<wire x1="4.5" y1="-2.5" x2="-1" y2="-2.5" width="0.127" layer="21"/>
+<wire x1="-1" y1="-2.5" x2="-4.5" y2="-2.5" width="0.127" layer="21"/>
+<wire x1="-4.5" y1="-2.5" x2="-4.5" y2="2.5" width="0.127" layer="21"/>
+<text x="-4.5" y="3" size="0.8128" layer="25" font="vector" ratio="16">&gt;NAME</text>
+<wire x1="-1" y1="2.5" x2="-1" y2="-2.5" width="0.127" layer="21"/>
+</package>
+<package name="10MM_CAP_SMD">
+<smd name="POS" x="0" y="3.88" dx="4" dy="1.1" layer="1" rot="R90"/>
+<smd name="NEG" x="0" y="-3.88" dx="4" dy="1.1" layer="1" rot="R90"/>
+<wire x1="-1" y1="5.15" x2="-3.138784375" y2="5.15" width="0.127" layer="21"/>
+<wire x1="-3.138784375" y1="5.15" x2="-5.15" y2="3.138784375" width="0.127" layer="21"/>
+<wire x1="-5.15" y1="3.138784375" x2="-5.15" y2="-5.15" width="0.127" layer="21"/>
+<wire x1="-5.15" y1="-5.15" x2="-1" y2="-5.15" width="0.127" layer="21"/>
+<wire x1="1" y1="5.15" x2="3.138784375" y2="5.15" width="0.127" layer="21"/>
+<wire x1="3.138784375" y1="5.15" x2="5.15" y2="3.138784375" width="0.127" layer="21"/>
+<wire x1="5.15" y1="3.138784375" x2="5.15" y2="-5.15" width="0.127" layer="21"/>
+<wire x1="5.15" y1="-5.15" x2="1" y2="-5.15" width="0.127" layer="21"/>
+<text x="-5.08" y="6.35" size="0.8128" layer="21" font="vector" ratio="16">&gt;NAME</text>
+<text x="2.54" y="3.81" size="2.1844" layer="21" font="vector" align="center">+</text>
+</package>
+<package name="CASE_D">
+<smd name="P" x="-3.15" y="0" dx="2.5" dy="4" layer="1"/>
+<smd name="N" x="3.15" y="0" dx="2.5" dy="4" layer="1"/>
+<wire x1="-5.08" y1="2.54" x2="-5.08" y2="-2.54" width="0.127" layer="21"/>
+<wire x1="-5.08" y1="-2.54" x2="5.08" y2="-2.54" width="0.127" layer="21"/>
+<wire x1="5.08" y1="-2.54" x2="5.08" y2="2.54" width="0.127" layer="21"/>
+<wire x1="5.08" y1="2.54" x2="-5.08" y2="2.54" width="0.127" layer="21"/>
+<polygon width="0.127" layer="21">
+<vertex x="-5.08" y="2.54"/>
+<vertex x="-6.35" y="1.27"/>
+<vertex x="-6.35" y="-1.27"/>
+<vertex x="-5.08" y="-2.54"/>
+</polygon>
+<text x="-5.08" y="3.175" size="0.8128" layer="21" font="vector" ratio="16">&gt;NAME</text>
+</package>
+<package name="CASE_B">
+<smd name="P" x="-1.375" y="0" dx="1.35" dy="2.7" layer="1"/>
+<smd name="N" x="1.375" y="0" dx="1.35" dy="2.7" layer="1"/>
+<wire x1="-2.54" y1="1.905" x2="-2.54" y2="-1.905" width="0.127" layer="21"/>
+<wire x1="-2.54" y1="-1.905" x2="2.54" y2="-1.905" width="0.127" layer="21"/>
+<wire x1="2.54" y1="-1.905" x2="2.54" y2="1.905" width="0.127" layer="21"/>
+<wire x1="2.54" y1="1.905" x2="-2.54" y2="1.905" width="0.127" layer="21"/>
+<polygon width="0.127" layer="21">
+<vertex x="-2.58" y="1.905"/>
+<vertex x="-3.175" y="1.27"/>
+<vertex x="-3.175" y="-1.27"/>
+<vertex x="-2.58" y="-1.905"/>
+</polygon>
+<text x="-2.58" y="2.175" size="0.8128" layer="21" font="vector" ratio="16">&gt;NAME</text>
+</package>
 </packages>
 <symbols>
 <symbol name="CAPACITOR_NON_POLAR">
@@ -15840,6 +15974,20 @@
 <wire x1="2.54" y1="0" x2="5.08" y2="0" width="0.254" layer="94" curve="-180"/>
 <text x="-7.62" y="5.08" size="1.016" layer="95" font="vector" rot="MR180">&gt;NAME</text>
 <text x="-7.62" y="2.54" size="1.016" layer="96" font="vector">&gt;VALUE</text>
+</symbol>
+<symbol name="CAPACITOR_POLAR">
+<description>Symbol for polarized capacitor</description>
+<pin name="NEG" x="0" y="-2.54" visible="off" length="point" rot="R90"/>
+<pin name="POS" x="0" y="2.54" visible="off" length="point" rot="R270"/>
+<wire x1="-1.778" y1="0.508" x2="0" y2="0.508" width="0.254" layer="94"/>
+<wire x1="0" y1="0.508" x2="1.778" y2="0.508" width="0.254" layer="94"/>
+<wire x1="-1.778" y1="-1.524" x2="1.778" y2="-1.524" width="0.254" layer="94" curve="-100"/>
+<wire x1="0.762" y1="1.524" x2="1.778" y2="1.524" width="0.1524" layer="94"/>
+<wire x1="1.27" y1="2.032" x2="1.27" y2="1.016" width="0.1524" layer="94"/>
+<wire x1="0" y1="-2.54" x2="0" y2="-0.762" width="0.1524" layer="94"/>
+<wire x1="0" y1="2.54" x2="0" y2="0.508" width="0.1524" layer="94"/>
+<text x="2.54" y="1.27" size="1.016" layer="95" font="vector" rot="MR180">&gt;NAME</text>
+<text x="2.54" y="-1.27" size="1.016" layer="96" font="vector">&gt;VALUE</text>
 </symbol>
 </symbols>
 <devicesets>
@@ -16085,6 +16233,104 @@
 <connects>
 <connect gate="G$1" pin="P$1" pad="P$1"/>
 <connect gate="G$1" pin="P$2" pad="P$2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="CAPACITOR_POLARIZED" prefix="C" uservalue="yes">
+<description>Polarized capacitors</description>
+<gates>
+<gate name="G$1" symbol="CAPACITOR_POLAR" x="0" y="0"/>
+</gates>
+<devices>
+<device name="_12.5MM_PTH" package="12.5MM_CAP_PTH">
+<connects>
+<connect gate="G$1" pin="NEG" pad="NEG"/>
+<connect gate="G$1" pin="POS" pad="POS"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_1206" package="1206_POLARIZED">
+<connects>
+<connect gate="G$1" pin="NEG" pad="-"/>
+<connect gate="G$1" pin="POS" pad="+"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_6.3MM_SMD" package="6.3MM_CAP_SMD">
+<connects>
+<connect gate="G$1" pin="NEG" pad="NEG"/>
+<connect gate="G$1" pin="POS" pad="POS"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_8MM_SMD" package="8MM_CAP_SMD">
+<connects>
+<connect gate="G$1" pin="NEG" pad="NEG"/>
+<connect gate="G$1" pin="POS" pad="POS"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_EEH-ZA1V271P" package="EEH-ZA1V271P">
+<connects>
+<connect gate="G$1" pin="NEG" pad="N"/>
+<connect gate="G$1" pin="POS" pad="P"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_5MM_SMD" package="5MM_CAP_SMD">
+<connects>
+<connect gate="G$1" pin="NEG" pad="N"/>
+<connect gate="G$1" pin="POS" pad="P"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_2917" package="2917">
+<connects>
+<connect gate="G$1" pin="NEG" pad="P$2"/>
+<connect gate="G$1" pin="POS" pad="P$1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_10MM_SMD" package="10MM_CAP_SMD">
+<connects>
+<connect gate="G$1" pin="NEG" pad="NEG"/>
+<connect gate="G$1" pin="POS" pad="POS"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_CASE_D" package="CASE_D">
+<connects>
+<connect gate="G$1" pin="NEG" pad="N"/>
+<connect gate="G$1" pin="POS" pad="P"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="_CASE_B" package="CASE_B">
+<connects>
+<connect gate="G$1" pin="NEG" pad="N"/>
+<connect gate="G$1" pin="POS" pad="P"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -18504,6 +18750,7 @@ Description: DC Power Connectors 4P JACK SKT SHIELDED SNAP AND LOCK</description
 <part name="U$3" library="PP_Aesthetics" deviceset="DB_LOGO" device="_SILK_SMALL"/>
 <part name="R19" library="PP_Passives" deviceset="RESISTOR" device="_0603" value="10K"/>
 <part name="PROG" library="PP_Electromechanical" deviceset="SPST" device="_EVPBB" value="EVP-BB2A1B000"/>
+<part name="C22" library="PP_Passives" deviceset="CAPACITOR_POLARIZED" device="_CASE_B" value="F930J107MBA"/>
 </parts>
 <sheets>
 <sheet>
@@ -18613,6 +18860,7 @@ Description: DC Power Connectors 4P JACK SKT SHIELDED SNAP AND LOCK</description
 <instance part="U$3" gate="G$1" x="-30.48" y="200.66" rot="MR180"/>
 <instance part="R19" gate="G$1" x="-60.96" y="337.82" rot="R270"/>
 <instance part="PROG" gate="G$1" x="-60.96" y="307.34" rot="R270"/>
+<instance part="C22" gate="G$1" x="-101.6" y="304.8" rot="MR0"/>
 </instances>
 <busses>
 </busses>
@@ -18833,6 +19081,10 @@ Description: DC Power Connectors 4P JACK SKT SHIELDED SNAP AND LOCK</description
 <pinref part="PROG" gate="G$1" pin="B"/>
 <wire x1="-60.96" y1="297.18" x2="-60.96" y2="302.26" width="0.1524" layer="91"/>
 <junction x="-68.58" y="297.18"/>
+<pinref part="C22" gate="G$1" pin="NEG"/>
+<wire x1="-96.52" y1="297.18" x2="-101.6" y2="297.18" width="0.1524" layer="91"/>
+<wire x1="-101.6" y1="297.18" x2="-101.6" y2="302.26" width="0.1524" layer="91"/>
+<junction x="-96.52" y="297.18"/>
 </segment>
 </net>
 <net name="SDA" class="0">
@@ -19130,8 +19382,9 @@ Description: DC Power Connectors 4P JACK SKT SHIELDED SNAP AND LOCK</description
 <pinref part="U8" gate="G$1" pin="VCC"/>
 <wire x1="-101.6" y1="317.5" x2="-109.22" y2="317.5" width="0.1524" layer="91"/>
 <wire x1="-109.22" y1="317.5" x2="-109.22" y2="312.42" width="0.1524" layer="91"/>
-<wire x1="-109.22" y1="312.42" x2="-96.52" y2="312.42" width="0.1524" layer="91"/>
+<wire x1="-109.22" y1="312.42" x2="-101.6" y2="312.42" width="0.1524" layer="91"/>
 <pinref part="C21" gate="G$1" pin="1"/>
+<wire x1="-101.6" y1="312.42" x2="-96.52" y2="312.42" width="0.1524" layer="91"/>
 <wire x1="-96.52" y1="312.42" x2="-86.36" y2="312.42" width="0.1524" layer="91"/>
 <wire x1="-86.36" y1="312.42" x2="-86.36" y2="307.34" width="0.1524" layer="91"/>
 <pinref part="C20" gate="G$1" pin="P$1"/>
@@ -19153,6 +19406,9 @@ Description: DC Power Connectors 4P JACK SKT SHIELDED SNAP AND LOCK</description
 <wire x1="-60.96" y1="342.9" x2="-60.96" y2="350.52" width="0.1524" layer="91"/>
 <wire x1="-60.96" y1="350.52" x2="-114.3" y2="350.52" width="0.1524" layer="91"/>
 <junction x="-114.3" y="350.52"/>
+<pinref part="C22" gate="G$1" pin="POS"/>
+<wire x1="-101.6" y1="307.34" x2="-101.6" y2="312.42" width="0.1524" layer="91"/>
+<junction x="-101.6" y="312.42"/>
 </segment>
 </net>
 <net name="SD_SCLK" class="0">
